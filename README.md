@@ -2,4 +2,4 @@
 
 ## Lesson 1
 ### Task 1
-![image](https://github.com/lj06872/OIBSIP/assets/77777419/6802b439-62e7-4e54-a708-b3aecedee8e4)
+This project demands a foundational understanding of HTML and CSS. The task was about designing a landing page, testing out creativity, and making sure that the components did not overlap each other.
