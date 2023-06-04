@@ -13,7 +13,7 @@ body{
 
 footer{
   /* position: fixed; */
-  background: #140B5C;
+  background: black;
   width: 100%;
   bottom: 0;
   left: 0;
@@ -153,7 +153,7 @@ footer .content .link-boxes .box{
 }
 .link-boxes .input-box input[type="button"]{
   background: #fff;
-  color: #140B5C;
+  color: black;
   border: none;
   font-size: 18px;
   font-weight: 500;
